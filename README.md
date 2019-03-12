@@ -1,0 +1,2 @@
+# Matlalb-Massage-Robot-Sim
+利用MATLAB-ROBOTICS-TOOLBOX建立一个四自由度和一个六自由度机械臂，根据要求能够在演示和非演示下画出工作空间，随机点画最小最大角度的工作空间，以及更具目标要求利用For循环描点
